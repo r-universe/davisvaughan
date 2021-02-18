@@ -3,3 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "almanac"]
+	path = almanac
+	url = https://github.com/davisvaughan/almanac
+	shallow = true
+[submodule "furrr"]
+	path = furrr
+	url = https://github.com/davisvaughan/furrr
+	shallow = true
+[submodule "slider"]
+	path = slider
+	url = https://github.com/davisvaughan/slider
+	shallow = true
+[submodule "warp"]
+	path = warp
+	url = https://github.com/davisvaughan/warp
+	shallow = true
