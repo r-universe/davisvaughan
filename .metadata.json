@@ -1,0 +1,18 @@
+[
+  {
+    "package": "almanac",
+    "oncran": true
+  },
+  {
+    "package": "furrr",
+    "oncran": true
+  },
+  {
+    "package": "slider",
+    "oncran": true
+  },
+  {
+    "package": "warp",
+    "oncran": true
+  }
+]

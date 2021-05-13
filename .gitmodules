@@ -8,22 +8,18 @@
 	url = https://github.com/davisvaughan/almanac
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "furrr"]
 	path = furrr
 	url = https://github.com/davisvaughan/furrr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "slider"]
 	path = slider
 	url = https://github.com/davisvaughan/slider
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "warp"]
 	path = warp
 	url = https://github.com/davisvaughan/warp
 	shallow = true
 	registered = true
-	oncran = true
