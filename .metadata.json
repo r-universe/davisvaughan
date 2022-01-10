@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "furrr",
-    "oncran": true
-  },
-  {
     "package": "slider",
     "oncran": true
   },

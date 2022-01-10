@@ -8,11 +8,6 @@
 	url = https://github.com/davisvaughan/almanac
 	shallow = true
 	registered = true
-[submodule "furrr"]
-	path = furrr
-	url = https://github.com/davisvaughan/furrr
-	shallow = true
-	registered = true
 [submodule "slider"]
 	path = slider
 	url = https://github.com/davisvaughan/slider
