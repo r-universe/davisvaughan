@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "ivs",
+    "oncran": true
+  },
+  {
     "package": "slider",
     "oncran": true
   },

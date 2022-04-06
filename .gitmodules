@@ -13,6 +13,11 @@
 	url = https://github.com/davisvaughan/furrr
 	shallow = true
 	registered = true
+[submodule "ivs"]
+	path = ivs
+	url = https://github.com/davisvaughan/ivs
+	shallow = true
+	registered = true
 [submodule "slider"]
 	path = slider
 	url = https://github.com/davisvaughan/slider
