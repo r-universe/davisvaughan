@@ -18,11 +18,6 @@
 	url = https://github.com/davisvaughan/ivs
 	shallow = true
 	registered = true
-[submodule "slider"]
-	path = slider
-	url = https://github.com/davisvaughan/slider
-	shallow = true
-	registered = true
 [submodule "warp"]
 	path = warp
 	url = https://github.com/davisvaughan/warp

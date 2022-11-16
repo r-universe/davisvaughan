@@ -12,10 +12,6 @@
     "oncran": true
   },
   {
-    "package": "slider",
-    "oncran": true
-  },
-  {
     "package": "warp",
     "oncran": true
   }
