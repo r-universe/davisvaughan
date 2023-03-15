@@ -4,15 +4,15 @@
     "oncran": true
   },
   {
+    "package": "warp",
+    "oncran": true
+  },
+  {
     "package": "furrr",
     "oncran": true
   },
   {
     "package": "ivs",
-    "oncran": true
-  },
-  {
-    "package": "warp",
     "oncran": true
   }
 ]

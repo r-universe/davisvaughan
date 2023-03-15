@@ -8,6 +8,11 @@
 	url = https://github.com/davisvaughan/almanac
 	shallow = true
 	registered = true
+[submodule "warp"]
+	path = warp
+	url = https://github.com/davisvaughan/warp
+	shallow = true
+	registered = true
 [submodule "furrr"]
 	path = furrr
 	url = https://github.com/davisvaughan/furrr
@@ -16,11 +21,6 @@
 [submodule "ivs"]
 	path = ivs
 	url = https://github.com/davisvaughan/ivs
-	shallow = true
-	registered = true
-[submodule "warp"]
-	path = warp
-	url = https://github.com/davisvaughan/warp
 	shallow = true
 	registered = true
 [submodule "rlang"]
