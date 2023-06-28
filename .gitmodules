@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "almanac"]
 	path = almanac
 	url = https://github.com/davisvaughan/almanac
-	shallow = true
-	registered = true
 [submodule "furrr"]
 	path = furrr
 	url = https://github.com/davisvaughan/furrr
-	shallow = true
-	registered = true
 [submodule "ivs"]
 	path = ivs
 	url = https://github.com/davisvaughan/ivs
-	shallow = true
-	registered = true
 [submodule "warp"]
 	path = warp
 	url = https://github.com/davisvaughan/warp
-	shallow = true
-	registered = true
