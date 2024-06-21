@@ -1,0 +1,15 @@
+[
+  {
+    "package": "treesitter",
+    "url": "https://github.com/DavisVaughan/r-tree-sitter",
+    "via": ["treesitter", "treesitter.r"],
+    "from": "treesitter"
+  },
+  {
+    "package": "treesitter.r",
+    "url": "https://github.com/r-lib/tree-sitter-r",
+    "via": ["treesitter"],
+    "subdir": "bindings/r",
+    "from": "treesitter"
+  }
+]
