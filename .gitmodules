@@ -14,9 +14,6 @@
 [submodule "treesitter"]
 	path = treesitter
 	url = https://github.com/davisvaughan/r-tree-sitter
-[submodule "treesitter.r"]
-	path = treesitter.r
-	url = https://github.com/cran/treesitter.r
 [submodule "warp"]
 	path = warp
 	url = https://github.com/davisvaughan/warp
